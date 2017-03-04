@@ -1,4 +1,4 @@
-# Sorting Algorithms in C++
+# Templated Sorting Algorithms in C++
 ## C++ Basic sorting algorithms for job interviews
 
 ### It includes:
