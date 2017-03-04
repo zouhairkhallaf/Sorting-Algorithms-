@@ -1,11 +1,11 @@
-# Sorting_Algorithms
+# Sorting Algorithms in C++
 ## C++ Basic sorting algorithms for job interviews
 
 ### It includes:
-* Selection Sort Algorithm
-* Bubble Sort
-* Quick Sort
-* Insertion Sort
-* Merge Sort 
-* Heap Sort
-* Tree Sort 
+* Selection Sort.
+* Insertion Sort.
+* Bubble Sort.
+* Quick Sort.
+* Merge Sort. 
+* Heap Sort.
+* Tree Sort. 
